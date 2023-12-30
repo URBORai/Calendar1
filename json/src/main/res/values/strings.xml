@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Json</string>
+    <string name="jsondata">
+        {
+        "booklist":["Java","JS","R"],
+        "pwd":9487,
+        "userId":"Max"
+        }
+    </string>
+</resources>
